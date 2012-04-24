@@ -1,7 +1,11 @@
 /**
  *	The sum of the primes below 10 is 2 + 3 + 5 + 7 = 17.
  *		Find the sum of all the primes below two million
+<<<<<<< HEAD
  *  answer: ???
+=======
+	*	Answer 142913828922
+>>>>>>> 9b484d88d8e497eb37e2773ee1280f4723091cc4
  */
 #include <stdio.h>
 #include <iostream>
